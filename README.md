@@ -16,9 +16,9 @@
 
 [WellnessDetector](http://www.argyle-design.com/) — an admin panel for a non-contact, anonymous, vital sign screening device using state of the art sensors and machine learning to non-invasively determine an individual's state of health. A person's temperature, heart and lung function are measured in real-time, from 1-3 meters away.
 
-[Parentbirth](https://www.parentbirth.com/) — Free text-based support for expecting and new parents. Connect with virtual doulas over text message for all your questions on pregnancy, birth, postpartum and new parenthood.
+[Parentbirth](https://www.parentbirth.com/) — free text-based support for expecting and new parents. Connect with virtual doulas over text message for all your questions on pregnancy, birth, postpartum and new parenthood.
 
-(RapidRobotics)[https://www.rapidrobotics.com/] - the robotics arms operators platform. Wrote the e2e and unit tests with Jest covering the main functionality of the web interface, as well as delivered the new features and enhancements.
+[Rapid Robotics](https://www.rapidrobotics.com/) - the robotics arms operators platform. Wrote the e2e and unit tests with Jest covering the main functionality of the web interface, as well as delivered the new features and enhancements.
 
 <!--
 
