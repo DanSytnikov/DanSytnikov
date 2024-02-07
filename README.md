@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/DanSytnikov/DanSytnikov/main/banner.png)
+![Banner](https://github.com/DanSytnikov/DanSytnikov/blob/main/banner_1.png)
 
 ### Hey there, I'm Dan, a Fullstack Developer originating from Ukraine. 👋
 ---
