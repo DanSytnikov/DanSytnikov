@@ -1,6 +1,6 @@
 ![Banner](https://github.com/DanSytnikov/DanSytnikov/blob/main/banner_1.png)
 
-### Hey there, I'm Dan, a Fullstack Developer originating from Ukraine. 👋
+### Hey there, I'm Dan, a Fullstack Developer originating from Ukraine 👋
 ---
 
 💻 Currently immersed in captivating projects, I eagerly embrace demanding tasks!
