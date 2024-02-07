@@ -21,6 +21,12 @@
 
 [Rapid Robotics](https://www.rapidrobotics.com/) - the robotics arms operators platform. Wrote the e2e and unit tests with Jest covering the main functionality of the web interface, as well as delivered the new features and enhancements.
 
+**My code samples:**
+
+https://gist.github.com/DanSytnikov/bcda7775f6670f69c6b1a74017133822
+https://gist.github.com/DanSytnikov/899314a7d03975239101ea74b138e623
+https://gist.github.com/DanSytnikov/38838a82cf6a4a7a1121b840dc14e0d1
+
 <!--
 
 
