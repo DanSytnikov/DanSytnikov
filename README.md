@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/DanSytnikov/DanSytnikov/main/banner.png)
+
 ### Hey there, I'm Dan, a Fullstack Developer originating from Ukraine. 👋
 ---
 
