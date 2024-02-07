@@ -8,6 +8,7 @@
 👍 My main tech stack is React.js, Nuxt.js, Express, and TypeScript.
 
 **My latest projects:**
+
 [Multiregnskab](https://www.multiregnskab.dk/en) — the only Danish accounting software that has specific features for holding companies in respect to bookkeeping and annual report.
 
 [Felixhomes](https://www.felixhomes.com/) — a low-commission real estate brokerage serving the greater Nashville area. The tech-friendly approach allows agents to close more deals and charge a lower commission as a result.
