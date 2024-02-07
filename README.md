@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Dan, a Fullstack Developer originating from Ukraine. 👋
+---
+
+💻 Currently immersed in captivating projects, I eagerly embrace demanding tasks!
+
+😎 I have a penchant for crafting sophisticated UI systems loaded with data, designing visually appealing interfaces, and staying ahead of the curve with cutting-edge technologies. Additionally, I thrive on architecting robust backend solutions, optimizing application performance, and implementing scalable APIs.
+
+👍 My main tech stack is React.js, Nuxt.js, Express, and TypeScript.
 
 <!--
-**DanSytnikov/DanSytnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
