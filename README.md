@@ -18,7 +18,7 @@
 
 [Parentbirth](https://www.parentbirth.com/) — Free text-based support for expecting and new parents. Connect with virtual doulas over text message for all your questions on pregnancy, birth, postpartum and new parenthood.
 
-(Rapid Robotics)[https://www.rapidrobotics.com/] - the robotics arms operators platform. Wrote the e2e and unit tests with Jest covering the main functionality of the web interface, as well as delivered the new features and enhancements.
+(RapidRobotics)[https://www.rapidrobotics.com/] - the robotics arms operators platform. Wrote the e2e and unit tests with Jest covering the main functionality of the web interface, as well as delivered the new features and enhancements.
 
 <!--
 
