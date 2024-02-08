@@ -15,7 +15,7 @@
 
 [Felixhomes](https://www.felixhomes.com/) — a low-commission real estate brokerage serving the greater Nashville area. The tech-friendly approach allows agents to close more deals and charge a lower commission as a result.
 
-[SparrowInvest](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth (велф) using Bitcoin. It was created to ultimately close the gender investment gap.
+[SparrowInvest](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth using Bitcoin. It was created to ultimately close the gender investment gap.
 
 [WellnessDetector](http://www.argyle-design.com/) — an admin panel for a non-contact, anonymous, vital sign screening device using state of the art sensors and machine learning to non-invasively determine an individual's state of health. A person's temperature, heart and lung function are measured in real-time, from 1-3 meters away.
 
